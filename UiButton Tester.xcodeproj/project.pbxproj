@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EC8504762AF6C2B500B7029E /* Traffic Light.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Traffic Light.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC8504762AF6C2B500B7029E /* UiButton Tester.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UiButton Tester.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC8504792AF6C2B500B7029E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EC85047B2AF6C2B500B7029E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		EC85047D2AF6C2B500B7029E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		EC85046D2AF6C2B500B7029E = {
 			isa = PBXGroup;
 			children = (
-				EC8504782AF6C2B500B7029E /* Traffic Light */,
+				EC8504782AF6C2B500B7029E /* UiButton Tester */,
 				EC8504772AF6C2B500B7029E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		EC8504772AF6C2B500B7029E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EC8504762AF6C2B500B7029E /* Traffic Light.app */,
+				EC8504762AF6C2B500B7029E /* UiButton Tester.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EC8504782AF6C2B500B7029E /* Traffic Light */ = {
+		EC8504782AF6C2B500B7029E /* UiButton Tester */ = {
 			isa = PBXGroup;
 			children = (
 				EC8504792AF6C2B500B7029E /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				EC8504842AF6C2B600B7029E /* LaunchScreen.storyboard */,
 				EC8504872AF6C2B600B7029E /* Info.plist */,
 			);
-			path = "Traffic Light";
+			path = "UiButton Tester";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EC8504752AF6C2B500B7029E /* Traffic Light */ = {
+		EC8504752AF6C2B500B7029E /* UiButton Tester */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EC85048A2AF6C2B600B7029E /* Build configuration list for PBXNativeTarget "Traffic Light" */;
+			buildConfigurationList = EC85048A2AF6C2B600B7029E /* Build configuration list for PBXNativeTarget "UiButton Tester" */;
 			buildPhases = (
 				EC8504722AF6C2B500B7029E /* Sources */,
 				EC8504732AF6C2B500B7029E /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Traffic Light";
+			name = "UiButton Tester";
 			productName = "Traffic Light";
-			productReference = EC8504762AF6C2B500B7029E /* Traffic Light.app */;
+			productReference = EC8504762AF6C2B500B7029E /* UiButton Tester.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EC8504712AF6C2B500B7029E /* Build configuration list for PBXProject "Traffic Light" */;
+			buildConfigurationList = EC8504712AF6C2B500B7029E /* Build configuration list for PBXProject "UiButton Tester" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EC8504752AF6C2B500B7029E /* Traffic Light */,
+				EC8504752AF6C2B500B7029E /* UiButton Tester */,
 			);
 		};
 /* End PBXProject section */
@@ -350,7 +350,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EC8504712AF6C2B500B7029E /* Build configuration list for PBXProject "Traffic Light" */ = {
+		EC8504712AF6C2B500B7029E /* Build configuration list for PBXProject "UiButton Tester" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EC8504882AF6C2B600B7029E /* Debug */,
@@ -359,7 +359,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EC85048A2AF6C2B600B7029E /* Build configuration list for PBXNativeTarget "Traffic Light" */ = {
+		EC85048A2AF6C2B600B7029E /* Build configuration list for PBXNativeTarget "UiButton Tester" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EC85048B2AF6C2B600B7029E /* Debug */,
